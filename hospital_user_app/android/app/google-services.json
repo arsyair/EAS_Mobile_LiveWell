@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840267169881",
+    "project_id": "flutter-chat-2fbf9",
+    "storage_bucket": "flutter-chat-2fbf9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840267169881:android:2585c2d6107518ea27f148",
+        "android_client_info": {
+          "package_name": "com.example.hospital_user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYjYhwPoruCxCUNJNrchGo6VouwFXybSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
